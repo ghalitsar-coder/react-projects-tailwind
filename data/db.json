@@ -1,0 +1,29 @@
+
+    {
+        "birthday":[
+            {
+            "id":1,
+            "name":"sarah",
+            "age":32,
+            "imgUrl" :"https://www.bates.edu/student-affairs/files/2015/02/Official-Headshot.jpg"
+        },
+            {
+            "id":2,
+            "name":"adam",
+            "age":51,
+            "imgUrl" :"https://ctd-thechristianpost.netdna-ssl.com/en/full/76980/jamie-shupe.jpg"
+        },
+            {
+            "id":3,
+            "name":"lucy",
+            "age":26,
+            "imgUrl" :"https://mathforgrownups.com/wp-content/uploads/2019/06/Laura-Laing-Headshot-2015-cropped.jpg"
+        },
+            {
+            "id":4,
+            "name":"nita",
+            "age":20,
+            "imgUrl" :"https://www.bates.edu/student-affairs/files/2015/02/Official-Headshot.jpg"
+        }
+    ]
+    }
