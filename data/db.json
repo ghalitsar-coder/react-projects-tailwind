@@ -25,5 +25,39 @@
             "age":20,
             "imgUrl" :"https://www.bates.edu/student-affairs/files/2015/02/Official-Headshot.jpg"
         }
+    ],
+    "tours" :[
+        {
+            "id":1,
+            "name":"Paris",
+            "info":"Gravida elit parturient est nisl faucibus sem laoreet placerat lobortis ullamcorper eleifend hendrerit senectus risus platea suscipit duis inceptos nam sapien habitant donec posuere elementum facilisis libero eros blandit eu ridiculus etiam leo fringilla facilisi diam tortor si tempus dignissim consectetur rutrum netus ad non fusce euismod lorem purus volutpat dolor tempor pharetra habitasse sollicitudin mauris cursus aptent aenean congue suspendisse",
+            "imgUrl" :"https://www.hautetime.com/wp-content/uploads/2015/08/Place_Vendome_Paris_20_April_2011.jpg",
+            "price":"2,885"
+
+        },
+        {
+            "id":2,
+            "name":"German",
+            "info":"erit senectus risus platea suscipit duis inceptos nam sapien habitant donec posuere elementum facilisis libero eros blandit eu ridiculus etiam leo fringilla facilisi diam tortor si tempus dignissim consectetur rutrum netus ad non fusce euismod lorem purus volutpat dolor tempor pharetra habitasse sollicitudin mauris cursus aptent aenean congue suspendisse",
+            "imgUrl" :"https://tourvidi.com/wp-content/uploads/2020/06/15-of-the-Most-Beautiful-Squares-in-Paris-by-Paris-Perfect4.jpg",
+            "price":"1,925"
+
+        },
+        {
+            "id":3,
+            "name":"Swiss",
+            "info":" lobortis ullamcorper eleifend hendrerit senectus risus platea suscipit duis inceptos nam sapien habitant donec posuere elementum facilisis libero eros blandit eu ridiculus etiam leo fringilla facilisi diam tortor si tempus dignissim consectetur rutrum netus ad non fusce euismod lorem purus volutpat dolor tempor pharetra habitasse sollicitudin mauris cursus aptent aenean congue suspendisse",
+            "imgUrl" :"https://www.brussels.be/sites/default/files/media-14469_1.jpg",
+            "price":"4,115"
+
+        },
+        {
+            "id":4,
+            "name":"France",
+            "info":"laoreet placerat lobortis ullamcorper eleifend hendrerit senectus risus platea suscipit duis inceptos nam sapien habitant donec posuere elementum facilisis libero eros blandit eu ridiculus etiam leo fringilla facilisi diam tortor si tempus dignissim consectetur rutrum netus ad non fusce euismod lorem purus volutpat dolor tempor pharetra habitasse sollicitudin mauris cursus aptent aenean congue suspendisse",
+            "imgUrl" :"https://media.cntraveler.com/photos/5a85c3c3b8ebbd42565cf888/master/w_1200,c_limit/Place-Trocadero_2018_GettyImages-521062958.jpg",
+            "price":"3,631"
+
+        }
     ]
     }
